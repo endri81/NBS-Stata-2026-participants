@@ -2,16 +2,8 @@
 
 Exercises, catch-up files and handouts for the five days. The data are NBS's and are given out in the room; they are never put here.
 
-## Before Day 1
-Your trainer sets up each PC with `setup/install_course.do` (see `setup/setup_guide.pdf`).
-
-## Each morning, inside Stata
-```stata
-cd "C:/NBS_Stata/day2"
-net from "https://raw.githubusercontent.com/endri81/NBS-Stata-2026-participants/main/day2"
-net get day2, replace
-```
-Change `day2` to the day of the course. No internet? Copy that day's folder from the USB stick into `C:\NBS_Stata`.
+## Getting the files
+Each PC is set up before Day 1 with `setup/install_course.do` (see `setup/setup_guide.pdf`): it copies all five days into `C:\NBS_Stata`. To get a fresh copy at any time, click the green **Code** button, then **Download ZIP**.
 
 ## What is here
 | Folder | Contents |

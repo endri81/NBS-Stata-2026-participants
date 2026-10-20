@@ -1,3 +1,0 @@
-v 3
-d NBS Seychelles Stata training: Day 4 (19 Nov 2026)
-p day4 Day 4 files: Regression and statistical series

@@ -1,3 +1,0 @@
-v 3
-d NBS Seychelles Stata training: Day 3 (18 Nov 2026)
-p day3 Day 3 files: Survey analysis
