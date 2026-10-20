@@ -1,0 +1,12 @@
+# NBS data never go on GitHub: only the README stays in data/
+data/*
+!data/README.txt
+*.dta
+*.xlsx
+*.docx
+*.log
+*.smcl
+# CSV files: data are ignored, the assessment test files are kept
+*.csv
+!assessment/test_formA.csv
+!assessment/test_formB.csv

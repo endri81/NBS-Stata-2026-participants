@@ -1,0 +1,16 @@
+v 3
+d day1  NBS Seychelles Stata training, Day 1: Data management I (16 Nov 2026)
+d Labs, practice set, daily check and catch-up files. The data come on the NBS USB stick.
+f catchup/catchup_D1_S1.do
+f catchup/catchup_D1_S2.do
+f catchup/catchup_D1_S3.do
+f catchup/catchup_D1_S4.do
+f catchup/catchup_D1_S5.do
+f catchup/catchup_D1_S6.do
+f catchup/catchup_D1_S7.do
+f catchup/catchup_D1_S8.do
+f catchup/catchup_D1_S9.do
+f check_D1.do
+f lab_D1_1.do
+f lab_D1_2.do
+f practice_D1.do

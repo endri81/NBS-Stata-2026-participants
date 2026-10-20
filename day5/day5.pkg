@@ -1,0 +1,19 @@
+v 3
+d day5  NBS Seychelles Stata training, Day 5: Programming and production (20 Nov 2026)
+d Labs, practice set, daily check and catch-up files. The data come on the NBS USB stick.
+f catchup/catchup_D5_S1.do
+f catchup/catchup_D5_S2.do
+f catchup/catchup_D5_S3.do
+f catchup/catchup_D5_S4.do
+f catchup/catchup_D5_S5.do
+f catchup/catchup_D5_S6.do
+f catchup/catchup_D5_S7.do
+f check_D5.do
+f labs/lab_D5_1.do
+f modules/01_clean.do
+f modules/02_design.do
+f modules/03_estimates.do
+f modules/04_model.do
+f modules/05_report.do
+f practice/practice_D5.do
+f refactor/legacy_ilo.do

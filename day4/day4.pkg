@@ -1,0 +1,14 @@
+v 3
+d day4  NBS Seychelles Stata training, Day 4: Regression and statistical series (19 Nov 2026)
+d Labs, practice set, daily check and catch-up files. The data come on the NBS USB stick.
+f catchup/catchup_D4_S1.do
+f catchup/catchup_D4_S2.do
+f catchup/catchup_D4_S3.do
+f catchup/catchup_D4_S4.do
+f catchup/catchup_D4_S5.do
+f catchup/catchup_D4_S6.do
+f catchup/catchup_D4_S7.do
+f check_D4.do
+f lab_D4_1.do
+f lab_D4_2.do
+f practice_D4.do
